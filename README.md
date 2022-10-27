@@ -5,7 +5,7 @@
 
 Our team wanted to answer a very relevant question for many americans, including ourselves: **Is there an increase in the cost of living for native Texans as a result of an influx of Californians moving there**? We are confident we can answer this question. With that being said, below we provided our process of aquiring the informaion, our database, and our machine learning model(s). 
 
-![Team_D_Final_Project](https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-jeffrey-czum-2904142.jpg)
+![Team_D_Final_Project](https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-jeffrey-czum-2904142.jpg|width=100px)
  ## Data
 
 
