@@ -4,7 +4,7 @@
 ## Overview of Project
 
 Our team wanted to answer a very relevant question for many americans, including ourselves: **Is there an increase in the cost of living for native Texans as a result of an influx of Californians moving there**? We are confident we can answer this question. With that being said, below we provided our process of aquiring the informaion, our database, and our machine learning model(s). 
-<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-jeffrey-czum-2904142.jpg" width="350" height="350""center">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-jeffrey-czum-2904142.jpg" width="350" height="350">
  ## Data
 
 
@@ -17,7 +17,7 @@ We decide to utilize the Postgres data base system. Our data will primarily be f
 5. Charlottes
 
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
-![Team_D_Final_Project](https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-karolina-grabowska-4506270.jpg)
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-karolina-grabowska-4506270.jpg>
 
 ## Machine Learning 
 
