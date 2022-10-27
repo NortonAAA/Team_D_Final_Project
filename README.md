@@ -5,7 +5,6 @@
 
 Our team wanted to answer a very relevant question for many americans, including ourselves: Is there an increase in the cost of living for native Texans as a result of an influx of Californians moving there? We are confident we can answer this question. With that being said, below we will provide our process of aquiring the informaion, our database, and our machine learning model(s). 
 
---------------------------------------------------------------------------------------------------------------------------------
 
  ## Data
 
@@ -19,8 +18,6 @@ We decide to utilize the Postgres data base system. Our data will primialry be f
 5. Charlottes
 
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in anserwing our question. Our research revoles around investigating what is the average cost of living based off the ten years. We will also be analyzing housing prices. 
-
-----------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Machine Learning
