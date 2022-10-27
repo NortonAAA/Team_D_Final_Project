@@ -7,7 +7,8 @@ Our team wanted to answer a very relevant question for many americans, including
 
 
 <img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-jeffrey-czum-2904142.jpg" width="400" height="400">
- ## Data
+
+## Data
 
 
 We decide to utilize the Postgres data base system. Our data will primarily be focused on five major cities in America. The following is the list of major cities:
