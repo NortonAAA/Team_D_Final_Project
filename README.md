@@ -24,4 +24,7 @@ Based off our research we have come to the conclusion that these cities provide 
 
 
 Machine Learning 
+
+
+
 After reviewing machine learning models, we believe that a "linear" model will benefit our project our project the most by giving us the most accurate output. The primary directive of our mode is to make a projection for 2-5 years out. We believe that it will be a sufficent time interval.
