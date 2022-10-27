@@ -8,6 +8,8 @@ Our team wanted to answer a very relevant question for many americans, including
 --------------------------------------------------------------------------------------------------------------------------------
 
 Data
+
+
 We decide to utilize the Postgres data base system. Our data will primialry be focused around the major 5 cities in America. The following is the list of major cities:
 
 1. Chicago
