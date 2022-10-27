@@ -20,7 +20,7 @@ We decide to utilize the Postgres data base system. Our data will primarily be f
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
 
-## Machine Learning
+## Machine Learning 
 
 
 After reviewing machine learning models, we believe that a **linear model** will benefit our project the most by giving us the most accurate output. The primary directive of our model is to make a projection for 2-5 years out. We believe that it will be a sufficent time interval. **Our model should predict a linear trend**. 
