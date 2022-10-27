@@ -25,3 +25,6 @@ Based off our research we have come to the conclusion that these cities provide 
 
 
 After reviewing machine learning models, we believe that a **linear model** will benefit our project the most by giving us the most accurate output. The primary directive of our model is to make a projection for 2-5 years out. We believe that it will be a sufficent time interval. **Our model should predict a linear trend**. 
+
+
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-gustavo-fring-6285130.jpg width="400" height="400">
