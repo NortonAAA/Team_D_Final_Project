@@ -9,7 +9,7 @@ Our team wanted to answer a very relevant question for many americans, including
  ## Data
 
 
-We decide to utilize the Postgres data base system. Our data will primialry be focused around the major 5 cities in America. The following is the list of major cities:
+We decide to utilize the Postgres data base system. Our data will primarily be focused around the major 5 cities in America. The following is the list of major cities:
 
 1. Chicago
 2. Austin
@@ -17,7 +17,7 @@ We decide to utilize the Postgres data base system. Our data will primialry be f
 4. Nashville 
 5. Charlottes
 
-Based off our research we have come to the conclusion that these cities provide the most useful informaiton in anserwing our question. Our research revoles around investigating what is the average cost of living based off the ten years. We will also be analyzing housing prices. 
+Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing **housing prices**. 
 
 
 ## Machine Learning
