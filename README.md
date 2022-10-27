@@ -1,5 +1,5 @@
 
-# Team D Final Project for MSU Bootcamp
+# Team D: Final Project for MSU Bootcamp
 
 ## Overview of Project
 
