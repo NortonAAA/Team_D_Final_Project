@@ -3,7 +3,7 @@ Team D Final Project for MSU Bootcamp
 
 Overview of Project
 
-Our team wanted to answer a very relevant question for many americans, including ourselves: Is there an increase in the cost of living for native Texans as a result of an influx of Californians moving there? We are confident we can answer this question. With that being said, below we will provide our process of aquiring the informaion, our databass, and our machine learning model(s). 
+Our team wanted to answer a very relevant question for many americans, including ourselves: Is there an increase in the cost of living for native Texans as a result of an influx of Californians moving there? We are confident we can answer this question. With that being said, below we will provide our process of aquiring the informaion, our database, and our machine learning model(s). 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
