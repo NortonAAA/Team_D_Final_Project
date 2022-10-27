@@ -19,7 +19,7 @@ We decide to utilize the Postgres data base system. Our data will primarily be f
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
 
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-karolina-grabowska-4506270.jpg width="350" height="400">
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/Team%20D%20Final%20Project%20for%20MSU%20Bootcamp/pexels-karolina-grabowska-4506270.jpg width="350" height="350">
 
 ## Machine Learning 
 
