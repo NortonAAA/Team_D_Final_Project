@@ -1,0 +1,17 @@
+insert into public.week_year_conv
+select 
+max(cast(week as date)) as week,
+cast(substring(cast(week as varchar(10)), 1, 4) as integer) as year_cd,
+cast(substring(cast(week as varchar(10)), 6, 2) as integer) as month_cd
+from (
+select generate_series(
+           (date '2017-01-01')::timestamp,
+           (date '2022-12-31')::timestamp,
+           interval '1 day'
+         ) as week
+	) as x
+group by 
+cast(substring(cast(week as varchar(10)), 1, 4) as integer),
+cast(substring(cast(week as varchar(10)), 6, 2) as integer)
+
+
