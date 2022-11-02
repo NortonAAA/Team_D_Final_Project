@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS public.week_year_conv
+(
+    week date,
+ 	year_cd integer,
+	month_cd integer
+)
