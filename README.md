@@ -18,6 +18,7 @@ We decide to utilize the Postgres data base system. Our data will primarily be f
 4. Nashville 
 5. Charlotte
 
+
 Source a dataset that will suit your needs (you can even use multiple datasets if applicable)
 Our datasets are sourced from Zillow, Zillow Group, Federal Housing Finance Agency, Online Data Robert Shiller, and University of Chicago Library. 
 For our datasets we will be the main metric we will be using is “Metropolitan Statistical Area” or MSA. MSA focuses on population core that has community with a high concentration of economic and social integration.  
