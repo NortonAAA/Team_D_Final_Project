@@ -23,9 +23,9 @@ Our datasets are sourced from Zillow, Zillow Group, Federal Housing Finance Agen
 For our datasets we will be the main metric we will be using is “Metropolitan Statistical Area” or MSA. MSA focuses on population core that has community with a high concentration of economic and social integration.  
 We will be utilizing Amazon’s Amazon Web Services. AWS is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
 Now, we moved the following metrics to the ASW instance
-•	Median home price/MSA
-•	Unemployment/MSA 
-•	MSA Table
+- Median home price/MSA
+-	Unemployment/MSA 
+-	MSA Table
 All metrics will be moved to Postgres to be cleaned, organized, and preform our data analysis. 
 
 
