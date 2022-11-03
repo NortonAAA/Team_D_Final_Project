@@ -5,14 +5,14 @@
 Our team wanted to answer a very relevant question for many americans, including ourselves: **Is there an increase in the housing prices for our top five major cities** ? We are confident we can answer this question. With that being said, below we provided our process of aquiring the informaion, our database, and our machine learning model(s). 
 
 
-<img src="https://github.com/NortonAAA/images/blob/main/images/pexels-jeffrey-czum-2904142.jpg" width="400" height="400">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-jeffrey-czum-2904142.jpg" width="400" height="400">
 
 
 ## Communication Roles
 
 While the team will collaborate on all roles, the following responsibilities are as follows:
 
-<img src="https://github.com/NortonAAA/images/blob/main/images/team_roles.png" width="400" height="400">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="400" height="400">
 ## Data Integration 
 
 
@@ -39,7 +39,7 @@ All metrics will be moved to Postgres to be cleaned, organized, and preform our 
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
 
-<img src=https://github.com/NortonAAA/images/blob/main/images/pexels-karolina-grabowska-4506270.jpg width="400" height="400">
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-karolina-grabowska-4506270.jpg width="400" height="400">
 
 ## Machine Learning 
 
