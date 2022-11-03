@@ -1,0 +1,16 @@
+-- Table: public.median_home_price
+-- Source: https://files.zillowstatic.com/research/public_csvs/mlp/Metro_mlp_uc_sfrcondo_sm_month.csv?t=1667071473 (Zillow)
+-- Source Note: Filtered to highlight interested cities.
+-- DROP TABLE IF EXISTS public.median_home_price;
+
+CREATE TABLE IF NOT EXISTS public.median_home_price
+(
+    region_id integer,
+    week date,
+    med_house_price integer
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.median_home_price
+    OWNER to root;

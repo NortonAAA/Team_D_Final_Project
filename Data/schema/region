@@ -1,0 +1,15 @@
+-- Table: public.region_dim
+
+-- DROP TABLE IF EXISTS public.region_dim;
+
+CREATE TABLE IF NOT EXISTS public.region_dim
+(
+    region_id integer NOT NULL,
+    region_desc text COLLATE pg_catalog."default",
+    CONSTRAINT region_id PRIMARY KEY (region_id)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS public.region_dim
+    OWNER to root;
