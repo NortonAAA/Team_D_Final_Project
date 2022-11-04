@@ -12,7 +12,8 @@ Our team wanted to answer a very relevant question for many americans, including
 
 While the team will collaborate on all roles, the following responsibilities are as follows:
 
-<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="400" height="400">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="400" height="200">
+
 ## Data Integration 
 
 
@@ -24,8 +25,6 @@ We decide to utilize the Postgres data base system. Our data will primarily be f
 4. Nashville 
 5. Charlotte
 
-
-Source a dataset that will suit your needs (you can even use multiple datasets if applicable)
 Our datasets are sourced from Zillow, Zillow Group, Federal Housing Finance Agency, Online Data Robert Shiller, and University of Chicago Library. 
 For our datasets we will be the main metric we will be using is “Metropolitan Statistical Area” or MSA. MSA focuses on population core that has community with a high concentration of economic and social integration.  
 We will be utilizing Amazon’s Amazon Web Services. AWS is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
@@ -47,4 +46,4 @@ Based off our research we have come to the conclusion that these cities provide 
 After reviewing machine learning models, we believe that a **Supervised Linear Regression Model** will benefit our project the most by giving us the most accurate output. The primary directive of our model is to make a projection for 2-5 years out. We believe that it will be a sufficent time interval. **Our model should predict a linear trend**. 
 
 
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-gustavo-fring-6285130.jpg width="400" height="400">
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-gustavo-fring-6285130.jpg width="400" height="200">
