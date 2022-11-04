@@ -18,6 +18,17 @@ We decide to utilize the Postgres data base system. Our data will primarily be f
 4. Nashville 
 5. Charlotte
 
+Source a dataset that will suit your needs (you can even use multiple datasets if applicable)
+Our datasets are sourced from Zillow, Zillow Group, Federal Housing Finance Agency, Online Data Robert Shiller, and University of Chicago Library. 
+For our datasets we will be the main metric we will be using is “Metropolitan Statistical Area” or MSA. MSA focuses on population core that has community with a high concentration of economic and social integration.  
+We will be utilizing Amazon’s Amazon Web Services. AWS is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+Now, we moved the following metrics to the ASW instance
+•	Median home price/MSA
+•	Unemployment/MSA 
+•	MSA Table
+All metrics will be moved to Postgres to be cleaned, organized, and preform our data analysis. 
+
+
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
 
