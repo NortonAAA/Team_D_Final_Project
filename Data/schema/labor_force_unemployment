@@ -1,20 +1,9 @@
--- Table: public.labor_force_unemployment
--- Source: https://www.bls.gov/web/metro/ssamatab1.txt (Bureau of Labor Statistics)
--- Source Note: Filtered highlight 
--- DROP TABLE IF EXISTS public.labor_force_unemployment;
-
 CREATE TABLE IF NOT EXISTS public.labor_force_unemployment
 (
     region_id integer,
-    year_id integer,
-    month_id integer,
+    week date,
     civilian_labor_force integer,
     employment integer,
     unemployment integer,
     unemployment_rate double precision
 )
-
-TABLESPACE pg_default;
-
-ALTER TABLE IF EXISTS public.labor_force_unemployment
-    OWNER to root;

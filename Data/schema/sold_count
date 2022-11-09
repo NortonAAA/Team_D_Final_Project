@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS public.sold_count
+(
+    region_id integer,
+    week date,
+    sales_count integer
+)

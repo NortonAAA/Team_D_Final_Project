@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS public.rent_index
+(
+    region_id integer,
+    week date,
+    rent_index decimal(9,2)
+)
