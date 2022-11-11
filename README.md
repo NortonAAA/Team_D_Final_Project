@@ -38,6 +38,8 @@ All metrics will be moved to Postgres to be cleaned, organized, and preform our 
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
 
+
+
 <img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-karolina-grabowska-4506270.jpg width="400" height="400">
 
 ## Machine Learning 
@@ -50,3 +52,4 @@ After reviewing machine learning models, we believe that a **Supervised Linear R
 
 
 ## Dashboard 
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/Housing%20Price%20Dashboard/Slide1.PNG width="400" height="200"
