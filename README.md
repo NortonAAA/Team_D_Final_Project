@@ -34,18 +34,22 @@ Now, we moved the following metrics to the ASW instance
 -	MSA Table
 All metrics will be moved to Postgres to be cleaned, organized, and preform our data analysis. 
 
+#### Update 11/10
+
+From the above data sources, we pulled from 6 data tables to combine into one .csv file called combined_data. This was refined to the 5 focus MSA areas. This was all done and transformed within our SQL database in Postgres. The file was loaded to our GitHub repository to be pulled into the Machine Learning model. Once in model, we removed any NaN's from the most recently data set.
+
 
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
 
-
-
 <img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-karolina-grabowska-4506270.jpg width="400" height="400">
 
-## Machine Learning 
-
+## Machine Learning
 
 After reviewing machine learning models, we believe that a **Supervised Linear Regression Model** will benefit our project the most by giving us the most accurate output. The primary directive of our model is to make a projection for 2-5 years out. We believe that it will be a sufficent time interval. **Our model should predict a linear trend**. 
+
+#### Update 11/10
+The initial Machine Learning model is based on the Combined_Data.csv created in the ETL portion of the data integration. Since the target variable of Med_Home_Price is a continuous variable without classification, we used the Naive Random Oversampling. Performing a accuracy check, the model is currently at 65%. We will look for possible different sampling techniques but also additional data.
 
 
 <img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-gustavo-fring-6285130.jpg width="400" height="200">
