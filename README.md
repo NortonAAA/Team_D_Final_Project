@@ -52,4 +52,4 @@ After reviewing machine learning models, we believe that a **Supervised Linear R
 
 
 ## Dashboard 
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/Housing%20Price%20Dashboard/Slide1.PNG width="400" height="200">
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/Housing%20Price%20Dashboard/Slide1.PNG width="400" height="400">
