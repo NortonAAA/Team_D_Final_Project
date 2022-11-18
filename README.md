@@ -12,7 +12,7 @@ Our team wanted to answer a very relevant question for many americans, including
 
 While the team will collaborate on all roles, the following responsibilities are as follows:
 
-<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="400" height="200">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="800" height="400">
 
 ## Data Integration 
 
