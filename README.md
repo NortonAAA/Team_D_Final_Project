@@ -12,7 +12,7 @@ Our team wanted to answer a very relevant question for many americans, including
 
 While the team will collaborate on all roles, the following responsibilities are as follows:
 
-<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="800" height="400">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/team_roles.png" width="400" height="200">
 
 ## Data Integration 
 
@@ -66,7 +66,7 @@ Machine model was further tested by looking at importance of the features. The r
 
 #### Update 11/17
 For our dashboard, we will be using Python Dash, Plotly, and Flask (located in Assets folder) in repository host on local server.
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/dashboard_example.png width="400" height="200">
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/dashboard_example.png width="800" height="400">
 
 Now, "Dash" is a Python framework that is designed for building web applications. It builds on top of Flask, Plotly. It gives the user the ability to build dashboards using pure Python. 
 
