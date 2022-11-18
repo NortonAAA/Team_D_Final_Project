@@ -41,6 +41,9 @@ From the above data sources, we pulled from 6 data tables to combine into one .c
 
 Based off our research we have come to the conclusion that these cities provide the most useful informaiton in answering our question. Our research revoles around investigating what is the **average cost of living** based off the ten years. We will also be analyzing the **housing prices** in the desired locations. 
 
+#### Update 11/17
+We have added additional data for Price Cut table from Zillow to test the additional accuracy.
+
 
 <img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-karolina-grabowska-4506270.jpg width="400" height="400">
 
@@ -52,13 +55,19 @@ After reviewing machine learning models, we believe that a **Supervised Linear R
 The initial Machine Learning model is based on the Combined_Data.csv created in the ETL portion of the data integration. Since the target variable of Med_Home_Price is a continuous variable without classification, we used the Naive Random Oversampling. Performing a accuracy check, the model is currently at 65%. We will look for possible different sampling techniques but also additional data.
 
 
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-gustavo-fring-6285130.jpg width="400" height="200">
+
+#### Update 11/17
+Machine model was further tested by looking at importance of the features. The resulting bar chart represents those features. The strongest relationship is with Rent cost.
+
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/feature_importances.png width="400" height="200">
 
 
 ## Dashboard 
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/Housing%20Price%20Dashboard/Slide1.PNG width="600" height="300">
 
-For our dashboard, we will be using Python  "Dash", "plotly", and "Tableau".
+#### Update 11/17
+For our dashboard, we will be using Python Dash, Plotly, and Flask (located in Assets folder) in repository host on local server.
+<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/dashboard_example.png width="400" height="200">
 
 Now, "Dash" is a Python framework that is designed for building web applications. It builds on top of Flask, Plotly. It gives the user the ability to build dashboards using pure Python. 
 
+ 
