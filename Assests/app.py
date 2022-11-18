@@ -1,4 +1,3 @@
-
 from dash.dependencies import Input, Output
 import pandas as pd
 import plotly.express as px
@@ -8,7 +7,7 @@ import dash_html_components as html
 
 app = dash.Dash(__name__)
 
-df_line = pd.read_csv("quarterly_combined_data_avg.csv")
+df_line = pd.read_csv("Assests/quarterly_combined_data_avg.csv")
 
 
 df_line['region_id']=df_line['region_id'].astype(str)
