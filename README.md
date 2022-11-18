@@ -62,4 +62,3 @@ For our dashboard, we will be using Python  "Dash", "plotly", and "Tableau".
 
 Now, "Dash" is a Python framework that is designed for building web applications. It builds on top of Flask, Plotly. It gives the user the ability to build dashboards using pure Python. 
 
-Tableau is a visual analytics platform that is becoming used more and more with time. For this project we are using Tableau to visualize some data.  
