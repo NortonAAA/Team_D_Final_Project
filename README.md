@@ -61,6 +61,10 @@ Machine model was further tested by looking at importance of the features. The r
 
 <img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/feature_importances.png width="400" height="200">
 
+3D Model of top 2 features to Median Home Price
+
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/71id6m.gif" width="40" height="40" />
+
 
 ## Dashboard 
 
