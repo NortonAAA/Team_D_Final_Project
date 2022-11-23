@@ -4,6 +4,10 @@
 
 Our team wanted to answer a very relevant question for many americans, including ourselves: **Is there an increase in the housing prices for our top five major cities** ? We are confident we can answer this question. With that being said, below we provided our process of aquiring the informaion, our database, and our machine learning model(s). 
 
+### Final Presentation that was given on 11/23/22 can be found at the following link:
+https://docs.google.com/presentation/d/1-OR9j7fGRo9jcHstWQD-k7Ya5BnoB1ZnEkmjNGPet_s/edit#slide=id.g19f201913c0_0_151
+
+
 
 <img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/pexels-jeffrey-czum-2904142.jpg" width="400" height="400">
 
