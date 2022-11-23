@@ -63,7 +63,7 @@ The initial Machine Learning model is based on the Combined_Data.csv created in 
 #### Update 11/23 - Price Cut Feature Added
 Machine model was further tested by looking at importance of the features. The resulting bar chart represents those features. The strongest relationship is with Rent cost.
 
-<img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/feature_importance_w_pricecut.jpg width="400" height="200">
+<img src="https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/feature_importance_w_pricecut.jpg" width="400" height="200">
 
 #### Update 11/20
 3D Model of top 2 features to Median Home Price. Price Cut was also added on the features
