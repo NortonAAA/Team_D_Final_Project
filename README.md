@@ -75,8 +75,9 @@ Machine model was further tested by looking at importance of the features. The r
 
 #### Update 11/23 - Final Dashboard
 For our dashboard, we will be using Python Dash, Plotly, and Flask (located in Assets folder) in repository host on local server.
+Now, "Dash" is a Python framework that is designed for building web applications. It builds on top of Flask, Plotly. It gives the user the ability to build dashboards using pure Python. 
+
 <img src=https://github.com/NortonAAA/Team_D_Final_Project/blob/main/images/dashboard_example.png width="800" height="400">
 
-Now, "Dash" is a Python framework that is designed for building web applications. It builds on top of Flask, Plotly. It gives the user the ability to build dashboards using pure Python. 
 
  
